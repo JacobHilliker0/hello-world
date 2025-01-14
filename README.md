@@ -1,2 +1,3 @@
-# hello-world
-Github setup assingment stuff
+# Commit test
+this is a commit test
+
